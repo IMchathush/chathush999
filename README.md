@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 My Gmail-http://chathush.priyankara@gmail.com/** 
+- 🔭 **[my gmail](http://chathush.priyankara@gmail.com/)** 
 - 🌱 
 - 👯 
 - 👨‍💻 
