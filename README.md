@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 **[my gmail](http://chathush.priyankara@gmail.com/)** 
-- 🌱 
-- 👯 
-- 👨‍💻 
-- 📫
-- ⚡ 
+- 🔭 **[My Gmail](http://chathush.priyankara@gmail.com/)** 
+- 🌱 **[𝗠𝘆 𝗢𝗳𝗳𝗲𝗰𝗶𝗮𝗹 𝗧𝗮𝗴𝘀](https://t.me/About_Imchathush/4)** 
+- 👯 **[Contact Me](https://t.me/Imchathush)** 
+- 👨‍💻 **[My Github](https://github.com/chathush999)** 
+- 📫 **[Tg Chanal](https://t.me/About_Imchathush)** 
+- ⚡ **[Youtube](https://www.youtube.com/channel/UCtAaUrtoi2oXJkclkMofwtg)** 
