@@ -14,4 +14,4 @@
 
 
 <p align="left"> 
-   <a href="https://www.youtube.com/" target="_blank"> <img src="https://telegra.ph//file/d7b38eb162e3a446d7fe2.jpg"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
