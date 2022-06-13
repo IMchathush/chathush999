@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=2000&color=00B348&multiline=true&height=120&lines=My+Name+Is+chathush+Sri+Lanka🇱+HTML-%5BPro%E2%9D%A4%EF%B8%8F%5D%2C+CSS-%5BAdv%F0%9F%92%A1%5D;Python-%5BNoob%5D+.....">
+<img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=2000&color=00B348&multiline=true&height=120&lines=My+Name+Is+chathush+Sri+Lanka+I+am+a+developer+.....">
 </p>
 
 
